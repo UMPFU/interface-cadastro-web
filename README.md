@@ -1,8 +1,8 @@
 # Interface de Cadastro de Cliente com HTML, CSS e JavaScript
 
-Este é um projeto extremamente simples de uma interface WEB para o cadastro/login de usuários.
+Este é um projeto extremamente simples de uma interface web para o cadastro/login de usuários.
 
-## Campos apresentados:
+## Recursos Implementados:
 
 * Opção para cadastro de novo usuário contendo os campos de **nome, cep, email** e **senha**;
 * Opção de login contendo campos de **email** e **senha** para usuário já cadastrado;
@@ -19,4 +19,4 @@ Este é um projeto extremamente simples de uma interface WEB para o cadastro/log
 ## Acesse o Projeto:
 
 **Interface online:** [https://umpfu.github.io/interface-cadastro-web/](https://umpfu.github.io/interface-cadastro-web/)\
-**Código fonte no GitHub:** [https://umpfu.github.io/interface-cadastro-web/](https://github.com/UMPFU/interface-cadastro-web.git)
+**Código fonte no GitHub:** [https://github.com/umpfu/interface-cadastro-web](https://github.com/UMPFU/interface-cadastro-web)
