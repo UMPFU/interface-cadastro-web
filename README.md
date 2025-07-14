@@ -2,6 +2,8 @@
 
 Este é um projeto extremamente simples de uma interface web para o cadastro/login de usuários.
 
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/70027271-e7f6-4b52-9e82-cbf4dd99f18f" />
+
 ## Recursos Implementados:
 
 * Opção para cadastro de novo usuário contendo os campos de **nome, cep, email** e **senha**;
