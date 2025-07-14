@@ -18,5 +18,5 @@ Este é um projeto extremamente simples de uma interface web para o cadastro/log
 
 ## Acesse o Projeto:
 
-**Interface online:** [https://umpfu.github.io/interface-cadastro-web/](https://umpfu.github.io/interface-cadastro-web/)\
-**Código fonte no GitHub:** [https://github.com/umpfu/interface-cadastro-web](https://github.com/UMPFU/interface-cadastro-web)
+**Interface online:** [https://uevertonm.github.io/interface-cadastro-web/](https://uevertonm.github.io/interface-cadastro-web/)\
+**Código fonte no GitHub:** [https://github.com/uevertonm/interface-cadastro-web](https://github.com/uevertonm/interface-cadastro-web)
